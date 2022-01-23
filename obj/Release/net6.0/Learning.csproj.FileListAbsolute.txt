@@ -1,0 +1,15 @@
+C:\Users\kindr\Documents\GitHub\Learning\Learning\bin\Release\net6.0\Learning.exe
+C:\Users\kindr\Documents\GitHub\Learning\Learning\bin\Release\net6.0\Learning.deps.json
+C:\Users\kindr\Documents\GitHub\Learning\Learning\bin\Release\net6.0\Learning.runtimeconfig.json
+C:\Users\kindr\Documents\GitHub\Learning\Learning\bin\Release\net6.0\Learning.dll
+C:\Users\kindr\Documents\GitHub\Learning\Learning\bin\Release\net6.0\ref\Learning.dll
+C:\Users\kindr\Documents\GitHub\Learning\Learning\bin\Release\net6.0\Learning.pdb
+C:\Users\kindr\Documents\GitHub\Learning\Learning\obj\Release\net6.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kindr\Documents\GitHub\Learning\Learning\obj\Release\net6.0\Learning.AssemblyInfoInputs.cache
+C:\Users\kindr\Documents\GitHub\Learning\Learning\obj\Release\net6.0\Learning.AssemblyInfo.cs
+C:\Users\kindr\Documents\GitHub\Learning\Learning\obj\Release\net6.0\Learning.csproj.CoreCompileInputs.cache
+C:\Users\kindr\Documents\GitHub\Learning\Learning\obj\Release\net6.0\Learning.dll
+C:\Users\kindr\Documents\GitHub\Learning\Learning\obj\Release\net6.0\ref\Learning.dll
+C:\Users\kindr\Documents\GitHub\Learning\Learning\obj\Release\net6.0\Learning.pdb
+C:\Users\kindr\Documents\GitHub\Learning\Learning\obj\Release\net6.0\Learning.genruntimeconfig.cache
+C:\Users\kindr\Documents\GitHub\Learning\Learning\obj\Release\net6.0\Learning.csproj.AssemblyReference.cache
